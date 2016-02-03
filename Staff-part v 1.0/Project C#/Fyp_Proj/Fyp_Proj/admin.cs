@@ -1,0 +1,64 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Text;
+using System.Windows.Forms;
+namespace Fyp_Proj
+{
+    public partial class admin : Form
+    {
+        private Login log = new Login();
+        private string name;
+        public admin()
+        {
+
+            InitializeComponent();
+        }
+        public admin(string val)
+        {
+            name = val;
+            InitializeComponent();
+        }
+
+        private void Button6_Click(object sender, EventArgs e)
+        {
+            log.Show();
+            this.Dispose();
+            this.Close();
+        }
+
+        private void tx_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void admin_Load(object sender, EventArgs e)
+        {
+            tx.Text = name;
+        }
+
+        private void Button1_Click(object sender, EventArgs e)
+        {
+            Admin_Student astu = new Admin_Student();
+            astu.Show();
+            this.Hide();
+
+        }
+
+        private void Button2_Click(object sender, EventArgs e)
+        {
+            Admin_Faculty afac = new Admin_Faculty();
+            afac.Show();
+            this.Hide();
+        }
+
+        private void Button3_Click(object sender, EventArgs e)
+        {
+            Admin_Admin admin = new Admin_Admin();
+            admin.Show();
+            this.Hide();
+        }
+    }
+}

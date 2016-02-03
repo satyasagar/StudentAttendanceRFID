@@ -1,0 +1,26 @@
+D:\My Work\FYP\Project C#\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.exe
+D:\My Work\FYP\Project C#\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.pdb
+D:\My Work\FYP\Project C#\Fyp_Proj\Fyp_Proj\obj\Debug\ResolveAssemblyReference.cache
+D:\My Work\FYP\Project C#\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.Properties.Resources.resources
+D:\My Work\FYP\Project C#\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.csproj.GenerateResource.Cache
+D:\My Work\FYP\Project C#\Fyp_Proj\Fyp_Proj\bin\Debug\Fyp_Proj.exe
+D:\My Work\FYP\Project C#\Fyp_Proj\Fyp_Proj\bin\Debug\Fyp_Proj.pdb
+D:\My Work\FYP\Project C#\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.Login.resources
+D:\My Work\FYP\Project C#\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.admin.resources
+D:\My Work\FYP\Project C#\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.Admin_Student.resources
+D:\My Work\FYP\Project C#\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.Admin_Faculty.resources
+D:\My Work\FYP\Project C#\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.Admin_Admin.resources
+C:\Users\Ozman\Downloads\Fyp(new)\Fyp(new)\Project C#\Fyp_Proj\Fyp_Proj\bin\Debug\Fyp_Proj.exe
+C:\Users\Ozman\Downloads\Fyp(new)\Fyp(new)\Project C#\Fyp_Proj\Fyp_Proj\bin\Debug\Fyp_Proj.pdb
+C:\Users\Ozman\Downloads\Fyp(new)\Fyp(new)\Project C#\Fyp_Proj\Fyp_Proj\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Ozman\Downloads\Fyp(new)\Fyp(new)\Project C#\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.Admin_Admin.resources
+C:\Users\Ozman\Downloads\Fyp(new)\Fyp(new)\Project C#\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.Admin_Faculty.resources
+C:\Users\Ozman\Downloads\Fyp(new)\Fyp(new)\Project C#\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.Admin_Student.resources
+C:\Users\Ozman\Downloads\Fyp(new)\Fyp(new)\Project C#\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.admin.resources
+C:\Users\Ozman\Downloads\Fyp(new)\Fyp(new)\Project C#\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.BookAssign1.resources
+C:\Users\Ozman\Downloads\Fyp(new)\Fyp(new)\Project C#\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.Librarian.resources
+C:\Users\Ozman\Downloads\Fyp(new)\Fyp(new)\Project C#\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.Login.resources
+C:\Users\Ozman\Downloads\Fyp(new)\Fyp(new)\Project C#\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.Properties.Resources.resources
+C:\Users\Ozman\Downloads\Fyp(new)\Fyp(new)\Project C#\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.csproj.GenerateResource.Cache
+C:\Users\Ozman\Downloads\Fyp(new)\Fyp(new)\Project C#\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.exe
+C:\Users\Ozman\Downloads\Fyp(new)\Fyp(new)\Project C#\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.pdb

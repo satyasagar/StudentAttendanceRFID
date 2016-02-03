@@ -1,0 +1,1 @@
+Create table Tbl(transid varchar(100),sname varchar(100),Rollno varchar(50))

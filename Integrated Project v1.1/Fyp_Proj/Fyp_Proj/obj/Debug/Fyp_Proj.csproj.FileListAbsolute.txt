@@ -1,0 +1,21 @@
+C:\Users\JesusSaves\Downloads\Integrated Project v1.1\Fyp_Proj\Fyp_Proj\bin\Debug\Fyp_Proj.exe.config
+C:\Users\JesusSaves\Downloads\Integrated Project v1.1\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.exe
+C:\Users\JesusSaves\Downloads\Integrated Project v1.1\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.pdb
+C:\Users\JesusSaves\Downloads\Integrated Project v1.1\Fyp_Proj\Fyp_Proj\bin\Debug\Fyp_Proj.exe
+C:\Users\JesusSaves\Downloads\Integrated Project v1.1\Fyp_Proj\Fyp_Proj\bin\Debug\Fyp_Proj.pdb
+C:\Users\JesusSaves\Downloads\Integrated Project v1.1\Fyp_Proj\Fyp_Proj\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\JesusSaves\Downloads\Integrated Project v1.1\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.Admin_Admin.resources
+C:\Users\JesusSaves\Downloads\Integrated Project v1.1\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.Admin_Faculty.resources
+C:\Users\JesusSaves\Downloads\Integrated Project v1.1\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.Admin_Staff.resources
+C:\Users\JesusSaves\Downloads\Integrated Project v1.1\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.Admin_Student.resources
+C:\Users\JesusSaves\Downloads\Integrated Project v1.1\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.admin.resources
+C:\Users\JesusSaves\Downloads\Integrated Project v1.1\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.BookAssign1.resources
+C:\Users\JesusSaves\Downloads\Integrated Project v1.1\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.RoomAssign.resources
+C:\Users\JesusSaves\Downloads\Integrated Project v1.1\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.HostelAttendant.resources
+C:\Users\JesusSaves\Downloads\Integrated Project v1.1\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.Librarian.resources
+C:\Users\JesusSaves\Downloads\Integrated Project v1.1\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.Login.resources
+C:\Users\JesusSaves\Downloads\Integrated Project v1.1\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.Properties.Resources.resources
+C:\Users\JesusSaves\Downloads\Integrated Project v1.1\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.csproj.GenerateResource.Cache
+C:\Users\JesusSaves\Downloads\RFID STUDENT ATTENDACE\Integrated Project v1.1\Fyp_Proj\Fyp_Proj\bin\Debug\Fyp_Proj.exe.config
+C:\Users\JesusSaves\Downloads\RFID STUDENT ATTENDACE\Integrated Project v1.1\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.exe
+C:\Users\JesusSaves\Downloads\RFID STUDENT ATTENDACE\Integrated Project v1.1\Fyp_Proj\Fyp_Proj\obj\Debug\Fyp_Proj.pdb
